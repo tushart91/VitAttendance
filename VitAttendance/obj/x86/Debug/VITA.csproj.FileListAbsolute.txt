@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\bin\Debug\VitAttendance.exe.config
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\bin\Debug\VitAttendance.exe
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\bin\Debug\VitAttendance.pdb
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VitAttendance.Form1.resources
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VitAttendance.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VitAttendance.exe
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VitAttendance.pdb
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VITA.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\VitAttendance\VitAttendance\obj\x86\Debug\VITA.csproj.GenerateResource.Cache
